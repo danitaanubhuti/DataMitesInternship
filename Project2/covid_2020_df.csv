@@ -1,0 +1,79 @@
+Province/State,Country/Region,Total_confirmed,Total_deaths,Total_recovered
+Australian Capital Territory,Australia,17016,441,15001.0
+New South Wales,Australia,517575,6786,371197.0
+Northern Territory,Australia,4653,0,3834.0
+Queensland,Australia,166393,899,143483.0
+South Australia,Australia,69877,576,61061.0
+Tasmania,Australia,33068,1770,27321.0
+Victoria,Australia,810150,12714,500540.0
+Western Australia,Australia,92850,1311,81529.0
+Alberta,Canada,1158595,21594,9215761.0
+British Columbia,Canada,447246,23464,101399.0
+Diamond Princess,Canada,32,162,76961.0
+Grand Princess,Canada,2160,0,25316811.0
+Manitoba,Canada,58522,1082,189258.0
+New Brunswick,Canada,22851,165,115139.0
+Newfoundland and Labrador,Canada,40122,441,109753.0
+Northwest Territories,Canada,755,0,65317.0
+Nova Scotia,Canada,146850,7574,26805.0
+Ontario,Canada,4542501,322761,294273.0
+Prince Edward Island,Canada,4762,1,47529.0
+Quebec,Canada,7001237,627206,27602.0
+Saskatchewan,Canada,124211,1832,31540.0
+Yukon,Canada,1776,0,62839.0
+Anhui,China,206191,1211,11550748.0
+Beijing,China,140285,1689,196949.0
+Chongqing,China,121578,1217,33287.0
+Fujian,China,72439,193,124643.0
+Gansu,China,29506,409,179322.0
+Guangdong,China,326123,1545,24144.0
+Guangxi,China,53038,404,28935.0
+Guizhou,China,30339,403,6417.0
+Hainan,China,35398,1197,14576.0
+Hebei,China,68846,1204,3596.0
+Heilongjiang,China,164180,2638,55027.0
+Henan,China,265965,4376,145157.0
+Hong Kong,China,293261,2831,112450.0
+Hubei,China,13788444,805340,33922.0
+Hunan,China,213287,798,106905.0
+Inner Mongolia,China,38590,181,33760.0
+Jiangsu,China,134938,0,201.0
+Jiangxi,China,194687,203,25937.0
+Jilin,China,26713,313,34799.0
+Liaoning,China,33999,365,241889.0
+Macau,China,7781,0,12140775.0
+Ningxia,China,15482,0,24074.0
+Qinghai,China,3827,0,80137.0
+Shaanxi,China,61548,532,415215.0
+Shandong,China,160729,1341,418517.0
+Shanghai,China,127867,1221,773980.0
+Shanxi,China,37284,0,391382.0
+Sichuan,China,119240,609,262110.0
+Tianjin,China,37677,610,95092.0
+Tibet,China,214,0,1130054.0
+Xinjiang,China,42070,576,29866.0
+Yunnan,China,38701,387,1839.0
+Zhejiang,China,264141,193,1491748.0
+Faroe Islands,Denmark,35060,0,101547.0
+Greenland,Denmark,1983,0,520067.0
+French Guiana,France,513162,2701,96208.0
+French Polynesia,France,13382,0,23948388.0
+Guadeloupe,France,37951,1987,2120147.0
+Martinique,France,37484,2064,178468.0
+Mayotte,France,295389,3718,2644.0
+New Caledonia,France,3206,0,2063548.0
+Reunion,France,88951,294,522444.0
+Saint Barthelemy,France,1231,0,58984.0
+Saint Pierre and Miquelon,France,303,0,19668.0
+St Martin,France,8595,466,262068.0
+Aruba,Netherlands,43491,452,2990307.0
+"Bonaire, Sint Eustatius and Saba",Netherlands,1164,0,4457.0
+Curacao,Netherlands,3647,165,276032.0
+Sint Maarten,Netherlands,17785,2128,22788482.0
+Anguilla,United Kingdom,463,0,871936.0
+Bermuda,United Kingdom,20046,1191,49029.0
+British Virgin Islands,United Kingdom,1308,134,372851.0
+Cayman Islands,United Kingdom,22814,168,920.0
+Channel Islands,United Kingdom,83886,6187,57048.0
+Falkland Islands (Malvinas),United Kingdom,1825,0,339210.0
+Gibraltar,United Kingdom,26393,0,105470.0
